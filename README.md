@@ -6,8 +6,8 @@
 -->
 
 <div align="center">
-  <a href="https://github.com/athayanaufalbrasta">
-    <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
+  <a href="https://github.com/MILAS1818">
+    <img src="salju.gif">
   </a>
 </div>
 
@@ -34,7 +34,7 @@ Feel free to explore my repositories—let’s build something awesome together!
 
 <!-- SVG & GIF -->
 
-[![image](https://github.com/athayanaufalbrasta/athayanaufalbrasta/blob/main/dino.gif)](https://athayanaufalbrasta.vercel.app/)
+[![image](https://github.com/athayanaufalbrasta/athayanaufalbrasta/blob/main)]
 
 <!-- ## 💻 Technical Skills:-->
 <!--
