@@ -13,7 +13,7 @@
 
 # Hi there! 👋
 
-I’m **Nichola <ins>_ jogi_</ins> Nathanael**, an Informatics student at **Mikroskil University**, passionate about technology and innovation.  
+I’m **Nichola <ins>_jogi_</ins> Nathanael**, an Informatics student at **Mikroskil University**, passionate about technology and innovation.  
 I have an interest in **Full-Stack Development**.
 
 ## 🛠 Tech Stack & Expertise:
