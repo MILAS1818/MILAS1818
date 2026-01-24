@@ -13,8 +13,8 @@
 
 # Hi there! 👋
 
-I’m **Athaya <ins>_Naufal_</ins> Brasta**, an Informatics student at **Mikroskil University**, passionate about technology and innovation.  
-I have an interest in **Full-Stack Development, Ethical Hacking, Artificial Intelligence, and Blockchain**.
+I’m **Athaya <ins>_Nichola jogi_</ins> Brasta**, an Informatics student at **Mikroskil University**, passionate about technology and innovation.  
+I have an interest in **Full-Stack Development**.
 
 ## 🛠 Tech Stack & Expertise:
 
@@ -22,12 +22,6 @@ I have an interest in **Full-Stack Development, Ethical Hacking, Artificial Inte
 - 🐍 **Backend & Scripting:** Python, Node.js, Express.js
 - 🗄️ **Databases & ORM:** MySQL, PostgreSQL, MongoDB, Prisma
 - 🛠️ **Development Tools:** Git, Github,ESLint, Vite, Vercel
-<!--
-- 🖥️ **Operating System:** Windows, Linux, Kali Linux
-- 🔒 **Security & Ethical Hacking:** Kali Linux, Burp Suite, Nmap, Wireshark
-- 🤖 **AI & Machine Learning:** TensorFlow, OpenAI API
-- ⛓️ **Blockchain & Web3:** Solidity, Ethereum Smart Contracts  
-  -->
 
 I love turning ideas into real-world applications, optimizing performance, and continuously learning new things.  
 Feel free to explore my repositories let’s build something awesome together! 💡✨
@@ -39,9 +33,6 @@ Feel free to explore my repositories let’s build something awesome together! �
     <img src="pix.gif">
   </a>
 </div>
-
-
-
 
 ## 📊 GitHub Stats:
 
@@ -55,7 +46,6 @@ Feel free to explore my repositories let’s build something awesome together! �
 </p>
 
 <br>
-
 
 <div align="left">
   <a href="https://athayanaufalbrasta.vercel.app/">
