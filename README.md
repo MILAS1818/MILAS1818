@@ -16,8 +16,13 @@ I have an interest in **Full-Stack Development**.
 - 🗄️ **Databases & ORM:** MySQL, PostgreSQL, MongoDB, Prisma
 - 🛠️ **Development Tools:** Git, Github,ESLint, Vite, Vercel
 
+<div align="center">
+<a href="https://github.com/MILAS1818">
+  <img src= "piecel.gif">
+  </a>
+  </div>
 I love turning ideas into real-world applications, optimizing performance, and continuously learning new things.  
-Feel free to explore my repositories let’s build something awesome together! 💡✨
+Feel free to explore my repositories let’s build something awesome together!
 
 <div align="center">
   <a href="https://github.com/MILAS1818">
